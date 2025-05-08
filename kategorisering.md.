@@ -1,0 +1,50 @@
+# Kategorisering av objekt
+
+Detta dokument beskriver hur objekt i GIS-systemet har kategoriserats. Syftet är att skapa en logisk och användarvänlig struktur baserad på användarnas behov, aktiviteter och trygghet.
+
+---
+
+## Kategorier och tillhörande objekt
+
+### 1. Barnvänliga aktiviteter
+Objekt för lek, nöje och vinteraktiviteter för barn:
+- Lekplatser
+- Pulkabackar
+
+### 2. Motion och träning
+Objekt som uppmuntrar till fysisk aktivitet:
+- Utegym
+- Motionsspår med rastplatser
+- Idrotts- och motionsanläggningar
+
+### 3. Servicefunktioner
+Objekt som erbjuder bekvämlighet och stöd för vistelse:
+- Offentliga toaletter
+- Parkmöbler
+- Papperskorgar
+
+### 4. Trygghet
+Objekt som bidrar till ökad säkerhet:
+- Livräddningsutrustning
+
+### 5. Natur och rekreation
+Platser för avkoppling, bad och social samvaro:
+- Badplatser
+- Parker
+
+---
+
+## Motivering
+
+Kategoriseringen utgår från hur användare tänker och söker efter platser – ofta utifrån **syfte och behov** snarare än objektets tekniska beskrivning.
+
+Exempel:
+- Föräldrar söker barnvänliga platser som lekplatser eller pulkabackar.
+- Aktiva personer letar efter motionsspår eller utegym.
+- Vid längre vistelser är servicefunktioner som toaletter och parkmöbler viktiga.
+- Säkerhet prioriteras vid vattennära områden – där livräddningsutrustning är avgörande.
+
+En sådan indelning förbättrar:
+- Navigering i appen/systemet
+- Filterfunktioner
+- Användarens upplevelse och förståelse
